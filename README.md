@@ -39,7 +39,9 @@ adb devices
 ```
 Seu celular solicitará autorização para que o computador possa realizar modificações. Clique em "OK"
 
-![image](https://user-images.githubusercontent.com/84329097/183400491-aadccf20-efbc-4480-ac3b-4b521139b060.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/84329097/183400491-aadccf20-efbc-4480-ac3b-4b521139b060.png" align="center" alt="white" /><br><br>
+
 
 Caso receba o erro: `???????????? no permissions` ao rodar o comando `adb devices`, será necessário reiniciar o daemon do ADB. Rode o comando:
 ```
@@ -78,7 +80,8 @@ Caso queira instalar em outra distribuição, link oficial da Microsoft nas refe
 2. Extraia o arquivo e acesse a pasta
 3. Para facilitar, clique com o botão direito em um espaço vazio da pasta e clique em "Abrir o terminal aqui"
 
-![image](https://user-images.githubusercontent.com/84329097/183400541-7d7ae916-5410-4bbd-858c-73af16460185.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/84329097/183400541-7d7ae916-5410-4bbd-858c-73af16460185.png" align="center" alt="white" /><br><br>
 
 Caso prefira, pode abrir o terminal e navegar até a pasta onde estão os arquivos (só é mais trabalhoso).
 4. Verifique se o dispositivo está sendo reconhecido com o  comando:
